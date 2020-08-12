@@ -1,0 +1,10 @@
+body {
+    background-color: #E5E5E5;
+}
+#pay {
+    background-color: white;
+    padding: 10px;
+    border: transparent;
+    border-radius: 50%;
+}
+
